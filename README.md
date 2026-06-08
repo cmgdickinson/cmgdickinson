@@ -1,4 +1,4 @@
 # About me
 
-I'm a Mathematics student and I've just started using GitHub.
+I'm a recent Mathematics graduate and I've just started using GitHub.
 
